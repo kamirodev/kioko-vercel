@@ -131,7 +131,7 @@ export default function Dashboard() {
         {/* Properties Grid */}
         <div className="space-y-6">
           <div className="flex items-center justify-between">
-            <h3 className="text-xl font-semibold text-gray-900">Tus Propiedades</h3>
+            <h3 className="text-xl font-semibold text-gray-900">Inmuebles</h3>
           </div>
 
           {userProperties.length === 0 ? (
